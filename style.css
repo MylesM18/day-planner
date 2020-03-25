@@ -1,0 +1,11 @@
+.hasTodo {
+    background-color: yellow;
+}
+
+.noTodo {
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+}
